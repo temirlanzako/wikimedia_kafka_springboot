@@ -1,0 +1,4 @@
+rootProject.name = 'spring-boot-kafka-real-world-project'
+include 'kafka-producer-wikimedia'
+include 'kafka-consumer-database'
+
